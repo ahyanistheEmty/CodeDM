@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", () => {
         summarizeButton.classList.add = 'Enchance Code';
 
         try {
-            const response = await fetch('https://11pwcqff-3004.inc1.devtunnels.ms/summarize', {
+            const response = await fetch('https://sgf925pg-3004.inc1.devtunnels.ms/summarize', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
